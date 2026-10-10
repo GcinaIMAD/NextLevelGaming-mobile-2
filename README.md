@@ -83,5 +83,3 @@ src/
 - Booking requests, event registrations and contact messages are not sent to a server; they are confirmed on screen only.
 
 ## Team Rose
-| [Name] | [ST number] | [username] | [Role] | 
-
